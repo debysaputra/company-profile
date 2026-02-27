@@ -30,9 +30,11 @@ export default function Navbar() {
         {/* Logo */}
         <a
           href="#"
-          className="font-bold text-white text-lg tracking-tight hover:text-indigo-400 transition-colors"
+          className="flex items-baseline gap-1 font-mono text-base tracking-tight group"
         >
-          Portofolio
+          <span className="text-zinc-500 group-hover:text-indigo-400 transition-colors font-light">&lt;</span>
+          <span className="text-white font-bold group-hover:text-indigo-100 transition-colors">Portofolio</span>
+          <span className="text-zinc-500 group-hover:text-indigo-400 transition-colors font-light">/&gt;</span>
         </a>
 
         {/* Desktop Links */}
