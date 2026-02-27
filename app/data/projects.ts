@@ -36,7 +36,7 @@ export const projects: Project[] = [
     description: 'Website portofolio ini sendiri — showcase proyek-proyek vibe coding yang dibangun dengan kolaborasi AI. Menampilkan projects, tech stack, dan kontak.',
     tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
     github: 'https://github.com/debysaputra/company-profile',
-    live: '#',
+    live: 'https://companyprofile-sooty.vercel.app',
     gradient: 'from-violet-500 to-indigo-600',
     vibeCoded: true,
   },
