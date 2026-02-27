@@ -32,6 +32,16 @@ export const projects: Project[] = [
   },
   {
     id: 3,
+    title: 'BoxDracin',
+    description: 'Platform streaming drama China dengan ribuan konten serial populer berdubbing bahasa Indonesia. Dilengkapi trending charts, rekomendasi personal, koleksi VIP, dan pencarian konten.',
+    tags: ['Next.js', 'Streaming', 'Drama China', 'Dubbing ID'],
+    github: '#',
+    live: 'https://boxdracin.vercel.app/',
+    gradient: 'from-red-500 to-orange-600',
+    vibeCoded: true,
+  },
+  {
+    id: 4,
     title: 'Portofolio',
     description: 'Website portofolio ini sendiri — showcase proyek-proyek vibe coding yang dibangun dengan kolaborasi AI. Menampilkan projects, tech stack, dan kontak.',
     tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
