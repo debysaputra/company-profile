@@ -42,6 +42,16 @@ export const projects: Project[] = [
   },
   {
     id: 4,
+    title: 'FileCompressor',
+    description: 'Tool kompresi file gambar & PDF langsung di browser — tanpa upload ke server, proses lokal 100% aman. Mendukung JPG, PNG, WebP, GIF, BMP dengan hasil cepat dan gratis.',
+    tags: ['Next.js', 'Image Compression', 'PDF', 'Browser-based'],
+    github: '#',
+    live: 'https://pdfimagecompress.vercel.app/',
+    gradient: 'from-emerald-500 to-teal-600',
+    vibeCoded: true,
+  },
+  {
+    id: 5,
     title: 'Portofolio',
     description: 'Website portofolio ini sendiri — showcase proyek-proyek vibe coding yang dibangun dengan kolaborasi AI. Menampilkan projects, tech stack, dan kontak.',
     tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
