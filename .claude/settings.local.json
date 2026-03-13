@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:sesuapnasi.vercel.app)",
+      "WebFetch(domain:invitation-eight-tau.vercel.app)",
+      "Bash(gh auth:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git credential:*)",
+      "Bash(vercel:*)",
+      "WebFetch(domain:boxdracin.vercel.app)",
+      "WebFetch(domain:pdfimagecompress.vercel.app)"
+    ]
+  }
+}
