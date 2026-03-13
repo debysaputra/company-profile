@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar'
+import HeroSection from './components/HeroSection'
 import ProjectsSection from './components/ProjectsSection'
 import SkillsSection from './components/SkillsSection'
 import ContactSection from './components/ContactSection'
@@ -16,6 +17,7 @@ export default function Home() {
       <Navbar />
 
       <main className="relative z-10">
+        <HeroSection />
         <ProjectsSection />
         <SkillsSection />
         <ContactSection />
