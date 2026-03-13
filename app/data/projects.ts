@@ -52,6 +52,16 @@ export const projects: Project[] = [
   },
   {
     id: 5,
+    title: 'Kanebo',
+    description: 'Aplikasi pengatur keuangan pribadi — catat pemasukan & pengeluaran, pantau anggaran bulanan, dan analisis kebiasaan finansial dengan tampilan yang bersih dan intuitif.',
+    tags: ['Next.js', 'Keuangan', 'Budgeting', 'Personal Finance'],
+    github: '#',
+    live: 'https://kanebo.vercel.app/',
+    gradient: 'from-green-500 to-emerald-600',
+    vibeCoded: true,
+  },
+  {
+    id: 6,
     title: 'Portofolio',
     description: 'Website portofolio ini sendiri — showcase proyek-proyek vibe coding yang dibangun dengan kolaborasi AI. Menampilkan projects, tech stack, dan kontak.',
     tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
