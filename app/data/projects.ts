@@ -62,6 +62,16 @@ export const projects: Project[] = [
   },
   {
     id: 6,
+    title: 'FnB POS App',
+    description: 'Aplikasi Point of Sale (POS) untuk bisnis Food & Beverage — kelola menu, transaksi, dan laporan penjualan dengan antarmuka yang mudah digunakan untuk kasir dan pemilik usaha.',
+    tags: ['Next.js', 'POS', 'Food & Beverage', 'Kasir'],
+    github: '#',
+    live: 'https://fnb-app-nu.vercel.app/',
+    gradient: 'from-amber-500 to-orange-600',
+    vibeCoded: true,
+  },
+  {
+    id: 7,
     title: 'Portofolio',
     description: 'Website portofolio ini sendiri — showcase proyek-proyek vibe coding yang dibangun dengan kolaborasi AI. Menampilkan projects, tech stack, dan kontak.',
     tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
