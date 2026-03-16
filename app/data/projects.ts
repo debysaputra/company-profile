@@ -72,6 +72,16 @@ export const projects: Project[] = [
   },
   {
     id: 7,
+    title: 'OSINT Toolkit',
+    description: 'Platform OSINT (Open Source Intelligence) untuk investigasi digital — kumpulkan, analisis, dan visualisasikan data dari sumber terbuka. Alat bantu riset dan investigasi berbasis web.',
+    tags: ['Next.js', 'OSINT', 'Intelligence', 'Investigasi Digital'],
+    github: '#',
+    live: 'https://osint-iota-green.vercel.app/',
+    gradient: 'from-lime-500 to-green-600',
+    vibeCoded: true,
+  },
+  {
+    id: 9,
     title: 'Portofolio',
     description: 'Website portofolio ini sendiri — showcase proyek-proyek vibe coding yang dibangun dengan kolaborasi AI. Menampilkan projects, tech stack, dan kontak.',
     tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
