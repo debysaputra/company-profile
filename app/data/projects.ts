@@ -81,6 +81,16 @@ export const projects: Project[] = [
     vibeCoded: true,
   },
   {
+    id: 8,
+    title: 'TechSteel Indo',
+    description: 'Company profile modern untuk perusahaan penyedia baja berkualitas — menampilkan produk, layanan, dan profil perusahaan dengan tampilan profesional dan elegan.',
+    tags: ['Next.js', 'Company Profile', 'Steel Industry', 'Tailwind CSS'],
+    github: '#',
+    live: 'https://techsteelindo-nu.vercel.app/',
+    gradient: 'from-slate-500 to-zinc-600',
+    vibeCoded: true,
+  },
+  {
     id: 9,
     title: 'Portofolio',
     description: 'Website portofolio ini sendiri — showcase proyek-proyek vibe coding yang dibangun dengan kolaborasi AI. Menampilkan projects, tech stack, dan kontak.',
