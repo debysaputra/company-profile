@@ -26,7 +26,7 @@ export const projects: Project[] = [
     description: 'Platform pembuatan undangan pernikahan digital — buat, kustomisasi, dan preview undangan secara real-time. Solusi modern pengganti undangan cetak untuk pasangan Indonesia.',
     tags: ['Next.js', 'MongoDB', 'Undangan Digital', 'Real-time Preview'],
     github: '#',
-    live: 'https://invitation-eight-tau.vercel.app/',
+    live: 'https://invitation-eight-tau.vercel.app/login',
     gradient: 'from-pink-500 to-rose-600',
     vibeCoded: true,
   },
